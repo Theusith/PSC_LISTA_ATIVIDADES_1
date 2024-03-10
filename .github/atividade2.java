@@ -1,3 +1,4 @@
+/*Crie um algoritmo que lê dois números, X e Y, e mostra o resto da divisão entre eles.*/
 import java.util.Scanner;
 
 public class Atividade2 {
@@ -14,7 +15,6 @@ public class Atividade2 {
 		resto = num1 % num2;
 		System.out.println("o Resto da davisão dos dois numeros é:" + resto);
 		sc.close();
-
 	}
 
 }
