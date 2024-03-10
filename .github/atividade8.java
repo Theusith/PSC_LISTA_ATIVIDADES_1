@@ -1,14 +1,13 @@
 import java.util.Scanner;
 
-public class Atividade7 {
-
+public class Atividade8 {
 	public static void main(String[] args) {
-		double salario, salarioReajustado;
 		Scanner sc = new Scanner(System.in);
-		System.out.println("Escreva seu salário:");
-		salario = sc.nextDouble();
-		salarioReajustado = salario + (salario * 0.07);
-		System.out.println("O novo salário será:" + salarioReajustado);
+		int metros, centimetros;
+		System.out.println("Escreva a quantidade em metros:");
+		metros = sc.nextInt();
+		centimetros = metros * 100;
+		System.out.println(metros + " metros em centimetros são " + centimetros + " centimetros");
 		sc.close();
 	}
 
