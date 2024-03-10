@@ -1,3 +1,5 @@
+/*Crie um algoritmo que leia a idade de uma pessoa e calcule quantos dias essa pessoa já viveu*/
+
 import java.util.Scanner;
 
 public class Atividade6 {
