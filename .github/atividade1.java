@@ -1,7 +1,5 @@
-import java.util.Scanner;
 /*Crie um programa que solicita ao usuário dois números e, em seguida, mostra a soma desses números.*/
 
-//Atividade 1:
 import java.util.Scanner;
 
 public class Atividade1 {
